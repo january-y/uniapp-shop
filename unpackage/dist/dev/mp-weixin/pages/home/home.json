@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "uni-grid-item": "../../uni_modules/uni-grid/components/uni-grid-item/uni-grid-item",
+    "uni-grid": "../../uni_modules/uni-grid/components/uni-grid/uni-grid",
+    "home-banner": "./cpns/home-banner",
+    "home-recommend": "./cpns/home-recommend",
+    "tab-control": "../../components/tab-control/tab-control",
+    "grid-item": "../../components/grid-item/grid-item"
+  }
+}

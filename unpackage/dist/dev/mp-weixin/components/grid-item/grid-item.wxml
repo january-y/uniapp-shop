@@ -1,0 +1,1 @@
+<view class="item"><image src="{{a}}" mode="widthFix" class="img" lazy-load></image><view class="desc">{{b}}</view><view class="footer"><text class="price">{{c}}</text><text class="rate">{{d}}</text></view></view>
